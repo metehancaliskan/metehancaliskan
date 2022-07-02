@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Web3 and Smart contracts**
 
+- 📗 Studying Electric and Electronic Engineering in Bilkent University.
+
 - 📫 How to reach me **metehancaliskan.38@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
