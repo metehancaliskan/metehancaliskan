@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kadir Metehan Çalışkan</h1>
-<h3 align="center">I am a candidate of an engineer who is a fan of blockchain and financial technology.</h3>
+<h3 align="center">I am an engineer who is a fan of blockchain and financial technology.</h3>
 
 - 🌱 I’m currently learning **Web3, Smart contracts and Embedded Systems**
 
